@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp"
+    android:focusable="false"
+    android:focusableInTouchMode="false">
+
+    <TextView
+        android:id="@+id/lvitem_nombre_sesion"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_weight="50"
+        android:text="Nombre_sesion"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:focusable="false"
+        android:focusableInTouchMode="false"/>
+
+    <TextView
+        android:id="@+id/lvitem_fecha_sesion"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_weight="50"
+        android:text="Fecha_sesion"
+        android:textAlignment="textEnd"
+        android:textSize="16sp"
+        android:focusable="false"
+        android:focusableInTouchMode="false"/>
+</LinearLayout>

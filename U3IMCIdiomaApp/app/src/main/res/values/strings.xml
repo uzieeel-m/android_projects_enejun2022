@@ -1,0 +1,35 @@
+<resources>
+    <!--> para Main -->
+    <string name="imc_equals">IMC = </string>
+    <string name="indiceIMC">Índice de Masa Corporal</string>
+    <string name="peso">Peso (kg):</string>
+    <string name="estatura">Estatura (m):</string>
+    <string name="calcular">Calcular</string>
+    <string name="acercade">Acerca De</string>
+    <string name="error_estatura">La estuatura debe ser mayor de 0</string>
+    <string name="error_peso">El peso debe ser mayor de 0</string>
+    <string name="condicion">Su condición de salud es:</string>
+    <string name="condicion_del_muy_sev">Delgadez muy severa.</string>
+    <string name="condicion_del_sev">Delgadez severa.</string>
+    <string name="condicion_del">Delgadez.</string>
+    <string name="condicion_peso_sal">Peso saludable.</string>
+    <string name="condicion_sobrepeso">Sobrepeso.</string>
+    <string name="condicion_obesidad">Obesidad moderada.</string>
+    <string name="condicion_obesidad_sev">Obesidad severa.</string>
+    <string name="condicion_obesidad_muy_sev">Obesidad muy severa.</string>
+    <string name="valores_err">¡Valores erróneos!</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="introduce_valores">¡Introduce algunos valores!</string>
+<!-->para Acerca De -->
+    <string name="app_name">U3IMCIdiomaApp</string>
+    <string name="tecnm">Tecnológico Nacional de México</string>
+    <string name="itl">Instituto Tecnológico de La Laguna</string>
+    <string name="carrera">Ingeniería en sistemas computacionales</string>
+    <string name="materia">Desarrollo en Android</string>
+    <string name="semestre">Semestre: Enero - Junio 2022</string>
+    <string name="grupo">Grupo: A 10-11hr</string>
+    <string name="app">U3IMCIdiomaApp</string>
+    <string name="alumno">Alumno:</string>
+    <string name="minombre">Elí Uziel Montes Pérez (18131260)</string>
+    <string name="copyright">(c) Derechos reservados. Torreón, Coah., México.</string>
+</resources>

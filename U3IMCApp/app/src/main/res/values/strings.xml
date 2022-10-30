@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">U3IMCApp</string>
+    <string name="tecnm">Tecnológico Nacional de México</string>
+    <string name="itl">Instituto Tecnológico de La Laguna</string>
+    <string name="carrera">Ingeniería en sistemas computacionales</string>
+    <string name="materia">Desarrollo en Android</string>
+    <string name="semestre">Semestre: Enero - Junio 2022</string>
+    <string name="grupo">Grupo: A 10-11hr</string>
+    <string name="app">U3IMCApp</string>
+    <string name="alumno">Alumno:</string>
+    <string name="minombre">Elí Uziel Montes Pérez (18131260)</string>
+    <string name="copyright">(c) Derechos Reservados. Torreón, Coa. Mex. 2022</string>
+</resources>

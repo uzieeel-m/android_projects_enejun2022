@@ -1,0 +1,17 @@
+mx/edu/itl/c85360673/u4tomarfotosapp/CamaraActivity.java
+ mx.edu.itl.c85360673.u4tomarfotosapp.CamaraActivity
+util/permisos/ChecadorDePermisos.java
+ util.permisos.ChecadorDePermisos
+ util.permisos.ChecadorDePermisos$1
+mx/edu/itl/c85360673/u4tomarfotosapp/BuildConfig.java
+ mx.edu.itl.c85360673.u4tomarfotosapp.BuildConfig
+mx/edu/itl/c85360673/u4tomarfotosapp/MainActivity.java
+ mx.edu.itl.c85360673.u4tomarfotosapp.MainActivity
+mx/edu/itl/c85360673/u4tomarfotosapp/MuestraFotoActivity.java
+ mx.edu.itl.c85360673.u4tomarfotosapp.MuestraFotoActivity
+util/imagenes/Imagen.java
+ util.imagenes.Imagen
+util/permisos/PermisoApp.java
+ util.permisos.PermisoApp
+mx/edu/itl/c85360673/u4tomarfotosapp/AcercaDeActivity.java
+ mx.edu.itl.c85360673.u4tomarfotosapp.AcercaDeActivity

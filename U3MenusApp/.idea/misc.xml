@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ejerciciosANDROID/2022A/U3MenusApp/app/src/main/res/layout/activity_ejemplo_menu_en_comun.xml" value="0.19739583333333333" />
+        <entry key="..\:/ejerciciosANDROID/2022A/U3MenusApp/app/src/main/res/layout/activity_main.xml" value="0.19739583333333333" />
+        <entry key="..\:/ejerciciosANDROID/2022A/U3MenusApp/app/src/main/res/layout/activity_main2.xml" value="0.19739583333333333" />
+        <entry key="..\:/ejerciciosANDROID/2022A/U3MenusApp/app/src/main/res/layout/activity_menu_contextual_flotante.xml" value="0.19739583333333333" />
+        <entry key="..\:/ejerciciosANDROID/2022A/U3MenusApp/app/src/main/res/layout/activity_menu_modo_accion_contextual.xml" value="0.19739583333333333" />
+        <entry key="..\:/ejerciciosANDROID/2022A/U3MenusApp/app/src/main/res/layout/activity_segundo.xml" value="0.19739583333333333" />
+        <entry key="..\:/ejerciciosANDROID/2022A/U3MenusApp/app/src/main/res/layout/activity_tercer.xml" value="0.19739583333333333" />
+        <entry key="..\:/ejerciciosANDROID/2022A/U3MenusApp/app/src/main/res/layout/switch_item.xml" value="0.19739583333333333" />
+        <entry key="..\:/ejerciciosANDROID/2022A/U3MenusApp/app/src/main/res/menu/menu_main_activity.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_menu_modo_accion_contextual.xml" value="0.25" />
+        <entry key="app/src/main/res/menu/menu_modo_accion_contextual.xml" value="0.25" />
+        <entry key="app/src/main/res/menu/menu_popup_apodo.xml" value="0.5" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

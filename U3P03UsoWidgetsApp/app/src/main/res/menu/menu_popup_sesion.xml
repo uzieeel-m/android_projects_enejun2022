@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/pmi_abrir"
+        android:icon="@android:drawable/ic_menu_set_as"
+        android:title="@string/abrir" />
+    <item
+        android:id="@+id/pmi_esconder"
+        android:icon="@android:drawable/ic_menu_view"
+        android:title="@string/esconder" />
+    <item
+        android:id="@+id/pmi_eliminar"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:title="@string/eliminar" />
+</menu>

@@ -1,0 +1,104 @@
+<resources>
+    <!--    main-->
+    <string name="app_name">U5P01 App usando SQLite</string>
+    <string name="mis_sesiones">Mis sesiones</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="ordenar_por">Ordenar por:</string>
+    <string-array name="ordenar">
+        <item>Nombre (A-Z)</item>
+        <item>Nombre (Z-A)</item>
+        <item>Fecha asc.</item>
+        <item>Fecha desc.</item>
+    </string-array>
+    <string name="nombre">Nombre</string>
+    <string name="fecha">Fecha</string>
+    <string name="abrir">Abrir</string>
+    <string name="esconder">Esconder</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="agendar_nueva_sesion">Agendar nueva sesión</string>
+    <string name="cerrar_sesion">Cerrar sesión</string>
+    <string name="sin_sesiones">No se tienes sesiones. Agenda una nueva.</string>
+    <!--    nueva sesion-->
+    <string name="nueva_sesion">Nueva Sesión</string>
+    <string name="datos_contacto">Datos de contacto</string>
+    <string name="nombre_dos_puntos">Nombre:</string>
+    <string name="telefono_dos_puntos">Teléfono:</string>
+    <string name="telefono_ejemplo" translatable="false">000-0000-000</string>
+    <string name="correo_dos_puntos">Correo electrónico:</string>
+    <string name="correo_ejemplo">correo@ejemplo.com</string>
+    <string name="datos_sesion">Datos de la sesión</string>
+    <string name="nombre_sesion">Nombre de la sesión:</string>
+    <string name="ejemplo_nombre_sesion">Ejemplo: Boda Ariana</string>
+    <string name="elige_paquete">Elige tu paquete:</string>
+    <string-array name="paquetes">
+        <item>Económico</item>
+        <item>Básico</item>
+        <item>Premium</item>
+    </string-array>
+    <string name="fecha_hora">Fecha y hora:</string>
+    <string name="lugar">Lugar:</string>
+    <string name="seleccionar_hora">Seleccionar hora</string>
+    <string name="seleccionar_fecha">Seleccionar fecha</string>
+    <string name="sin_fecha">Sin fecha seleccionada</string>
+    <string name="sin_hora">Sin hora seleccionada</string>
+    <string-array name="lugares">
+        <item>Bosque Urbano</item>
+        <item>Bosque Venustiano Carranza</item>
+        <item>Parque Fundadores</item>
+        <item>Alameda</item>
+        <item>Otro...</item>
+    </string-array>
+    <string name="agendar">Agendar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="fotos_fila">Fotos por fila</string>
+    <!-- acerca de -->
+    <string name="acerca_de">Acerca de...</string>
+    <string name="tecnm" translatable="false">Tecnológico Nacional de México</string>
+    <string name="itl" translatable="false">Instituto Tecnológico de la Laguna</string>
+    <string name="carrera">Ingeniería en Sistemas Computacionales</string>
+    <string name="materia">Desarrollo en Android</string>
+    <string name="version_app" translatable="false">v 2.0</string>
+    <string name="nombre_alumno" translatable="false">Elí Uziel Montes Pérez</string>
+    <string name="derechos_reservados">Derechos reservados, 2022</string>
+    <string name="cerrar">Cerrar</string>
+    <!--SesionActivity -->
+    <string name="ampliar">Ampliar</string>
+    <string name="descargar">Descargar</string>
+    <string name="info_sesion0">Información de la sesión</string>
+    <string name="info_sesion1">Nombre de la sesión: </string>
+    <string name="info_sesion2">Fecha de la sesión: </string>
+    <string name="regresar">Regresar</string>
+    <string name="sal_para_actualizar">Regresa para visualizar las fotos seleccionadas.</string>
+    <string name="seleccionar_fotos">Seleccionar las fotos de la sesión:</string>
+    <string name="error_elegir_imagen">Error al elegir la imagen!</string>
+    <string name="fotos_borradas">Fotos eliminadas con éxito!</string>
+    <!--    SesionActivity -->
+    <string name="error_sesion_sin_fotos">¡Esta sesión aún no tiene fotos!</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="info_sesion_nombre">Nombre de la sesión: </string>
+    <string name="info_sesion_fecha">Fecha de captura: </string>
+    <string name="info_sesion_hora">Hora de captura: </string>
+    <string name="info_sesion_lugar">Lugar de captura: </string>
+    <string name="info_sesion_paquete">Paquete elegido: </string>
+    <!--    Inicio de sesión-->
+    <string name="iniciar_sesion">Iniciar Sesión</string>
+    <string name="nombre_usuario">Nombre de usuario</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="contrasena_olvidada">¿Olvidaste tu contraseña? Toca aquí.</string>
+    <string name="registrasre">Registrarse</string>
+    <string name="algun_dia_ampliar">La imagen seleccionada se ampliará algún día...</string>
+    <string name="algun_dia_descargar">La imagen seleccionada se descargará en el dispositivo algún día...</string>
+    <string name="algun_dia_ocultar">La imagen seleccionada se ocultará algún día...</string>
+    <string name="algun_dia_eliminar">La imagen seleccionada se eliminará del dispositivo algún día...</string>
+    <string name="compartir_sesion">Compartir sesión</string>
+    <string name="algun_dia_archivo_zip">Un archivo zip se descargará en el dispositivo algún día...</string>
+    <string name="sesion_no_encontrada">No se encontró la sesión :(</string>
+    <!--    Registro-->
+    <string name="registro">Registro</string>
+    <string name="repetir_contrasena">Repite la contraseña</string>
+    <string name="nombre_completo">Nombre completo</string>
+    <string name="correo">Correo electrónico</string>
+    <string name="telefono_10_digitos">Número de teléfono (10 dígitos)</string>
+<!--    AdminActivity-->
+    <string name="sesiones_no_disponibles">Sin sesiones disponibles.</string>
+</resources>

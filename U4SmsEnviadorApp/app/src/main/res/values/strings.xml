@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">U4SmsEnvioApp</string>
+    <!-- acerca de -->
+    <string name="acerca_de">Acerca de...</string>
+    <string name="tecnm" translatable="false">Tecnológico Nacional de México</string>
+    <string name="itl" translatable="false">Instituto Tecnológico de la Laguna</string>
+    <string name="carrera">Ingeniería en Sistemas Computacionales</string>
+    <string name="materia">Desarrollo en Android</string>
+    <string name="version_app" translatable="false">v 1.0</string>
+    <string name="nombre_alumno" translatable="false">Elí Uziel Montes Pérez</string>
+    <string name="derechos_reservados">Derechos reservados, 2022</string>
+    <string name="cerrar">Cerrar</string>
+    <!-- -->
+</resources>

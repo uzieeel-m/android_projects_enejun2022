@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_vertical"
+    android:orientation="vertical"
+    tools:context="mx.edu.itl.ctl85360673.almacenintextapp.MainActivity">
+
+    <Button
+        android:id="@+id/btnAlmacenInterno"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="btnAlmacenIntClick"
+        android:text="Almacenamiento Interno" />
+
+    <Button
+        android:id="@+id/btnAlmacenExterno"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="btnAlmacenExtClick"
+        android:text="Almacenamiento Externo" />
+
+    <Button
+        android:id="@+id/btnAcercaDe"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#86ED6A"
+        android:onClick="acercaDeClick"
+        android:text="@string/acerca_de" />
+</LinearLayout>

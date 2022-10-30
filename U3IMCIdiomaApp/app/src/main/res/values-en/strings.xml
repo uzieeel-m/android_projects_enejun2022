@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">U3IMCIdiomaApp</string>
+    <string name="indiceIMC">Body Mass Index</string>
+    <string name="peso">Weight (kg):</string>
+    <string name="estatura">Height (m):</string>
+    <string name="calcular">Calculate</string>
+    <string name="acercade">About</string>
+    <string name="error_estatura">Height must be greater than 0</string>
+    <string name="error_peso">Weight must be greater than 0</string>
+    <string name="condicion">Your health condition is:</string>
+    <string name="condicion_del_muy_sev">Extreme thinness.</string>
+    <string name="condicion_del_sev">Severe thinness.</string>
+    <string name="condicion_del">Thinness.</string>
+    <string name="condicion_peso_sal">Healthy weight.</string>
+    <string name="valores_err">Wrong values!</string>
+    <string name="aceptar">Accept</string>
+    <string name="tecnm">Tecnológico Nacional de México</string>
+    <string name="itl">Instituto Tecnológico de La Laguna</string>
+    <string name="carrera">Computer Systems Engineering</string>
+    <string name="materia">Android Development</string>
+    <string name="semestre">Semester: January - July 2022</string>
+    <string name="grupo">Group: A 10-11hr</string>
+    <string name="app">U3IMCIdiomaApp</string>
+    <string name="alumno">Student name:</string>
+    <string name="minombre">Elí Uziel Montes Pérez (18131260)</string>
+    <string name="copyright">(c) Copyright. Torreón, Coah., México.</string>
+    <string name="introduce_valores">Enter some values!</string>
+    <string name="condicion_sobrepeso">Overweight.</string>
+    <string name="condicion_obesidad">Obesity.</string>
+    <string name="condicion_obesidad_sev">Severe Obesity.</string>
+    <string name="condicion_obesidad_muy_sev">Extreme obesity.</string>
+    <string name="imc_equals">"BMI = "</string>
+</resources>

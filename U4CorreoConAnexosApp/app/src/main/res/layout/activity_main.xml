@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingTop="20dp"
+    tools:context="mx.edu.itl.c85360673.u4correoconanexosapp.MainActivity">
+
+    <EditText
+        android:id="@+id/edtDestinatario"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/layout_start_end"
+        android:layout_marginEnd="@dimen/layout_start_end"
+        android:layout_marginBottom="@dimen/layout_bottom"
+        android:ems="10"
+        android:hint="@string/destinatario"
+        android:inputType="textEmailAddress" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/layout_start_end"
+        android:layout_marginEnd="@dimen/layout_start_end"
+        android:layout_marginBottom="@dimen/layout_bottom"
+        android:orientation="horizontal">
+
+        <CheckBox
+            android:id="@+id/cbxCcp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:checked="false"
+            android:text="@string/ccp" />
+
+        <EditText
+            android:id="@+id/edtCcp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:ems="10"
+            android:enabled="false"
+            android:hint="@string/separar_con_punto_y_coma"
+            android:inputType="textEmailAddress" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/layout_start_end"
+        android:layout_marginEnd="@dimen/layout_start_end"
+        android:layout_marginBottom="@dimen/layout_bottom"
+        android:orientation="horizontal">
+
+        <CheckBox
+            android:id="@+id/cbxCco"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:checked="false"
+            android:text="@string/cco" />
+
+        <EditText
+            android:id="@+id/edtCco"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:ems="10"
+            android:enabled="false"
+            android:hint="@string/separar_con_punto_y_coma"
+            android:inputType="textEmailAddress" />
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/edtAsunto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/layout_start_end"
+        android:layout_marginEnd="@dimen/layout_start_end"
+        android:layout_marginBottom="@dimen/layout_bottom"
+        android:ems="10"
+        android:hint="@string/asunto"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/edtMensaje"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/layout_start_end"
+        android:layout_marginEnd="@dimen/layout_start_end"
+        android:layout_marginBottom="@dimen/layout_bottom"
+        android:ems="10"
+        android:hint="@string/mensaje"
+        android:inputType="textMultiLine" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_marginStart="@dimen/layout_start_end"
+        android:layout_marginEnd="@dimen/layout_start_end"
+        android:layout_marginBottom="@dimen/layout_bottom">
+
+        <LinearLayout
+            android:id="@+id/linlayArchivosAdjuntos"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" />
+    </ScrollView>
+
+    <Button
+        android:id="@+id/btnAdjuntarArchivo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/layout_start_end"
+        android:layout_marginEnd="@dimen/layout_start_end"
+        android:layout_marginBottom="@dimen/layout_bottom"
+        android:onClick="btnAdjuntarArchivoClick"
+        android:text="@string/adjuntar_archivo" />
+
+    <Button
+        android:id="@+id/btnEnviarCorreo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/layout_start_end"
+        android:layout_marginEnd="@dimen/layout_start_end"
+        android:layout_marginBottom="@dimen/layout_bottom"
+        android:onClick="btnEnviarCorreoClick"
+        android:text="@string/enviar_correo" />
+</LinearLayout>

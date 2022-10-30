@@ -1,0 +1,21 @@
+﻿<resources>
+    <string name="app_name">U4CorreoConAnexosApp</string>
+    <string name="llamar">Llamar</string>
+    <string name="enviar_sms">Enviar SMS</string>
+    <string name="abrir_pagina_web">Abrir Página Web</string>
+    <string name="enviar_correo">Enviar Correo</string>
+    <string name="acerca_de">Acerca de...</string>
+    <string name="numero">Número</string>
+    <string name="destinatario">Destinatario</string>
+    <string name="mensaje">Mensaje</string>
+    <string name="enviar_mensaje">Enviar Mensaje</string>
+    <string name="abrir_url">Abrir URL</string>
+    <string name="url">URL</string>
+    <string name="asunto">Asunto</string>
+    <string name="ccp">C.C.P.</string>
+    <string name="cco">C.C.O.</string>
+    <string name="adjuntar_archivo">Adjuntar Archivo</string>
+    <string name="separar_con_punto_y_coma">Separar correos con ";"</string>
+    <string name="acerca_de_encabezado">    </string>
+    <string name="acerca_de_cuerpo">    </string>
+</resources>

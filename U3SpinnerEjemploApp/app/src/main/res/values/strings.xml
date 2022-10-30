@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">U3SpinnerEjemploApp</string>
+    <string-array name="clubes_liga_mx">
+        <item>América</item>
+        <item>Toluca</item>
+        <item>Guadalajara</item>
+        <item>Puebla</item>
+        <item>Tijuana</item>
+        <item>Cruz Azul</item>
+        <item>Atlas</item>
+        <item>Torreón</item>
+        <item>Pachuca</item>
+    </string-array>
+</resources>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">U3P03UsoWidgetsApp</string>
+    <string name="nombre">Name</string>
+    <string name="fecha">Date</string>
+    <string name="abrir">Open</string>
+    <string name="esconder">Hide</string>
+    <string name="eliminar">Delete</string>
+    <string name="agendar_nueva_sesion">Schedule new photoshoot</string>
+    <string name="nueva_sesion">New photoshoot</string>
+    <string name="datos_contacto">Contact info</string>
+    <string name="nombre_dos_puntos">Name:</string>
+    <string name="correo">Email</string>
+    <string name="datos_sesion">Photoshoot info</string>
+    <string name="elige_paquete">Choose a plan:</string>
+    <string name="fecha_hora">Date n\' time:</string>
+    <string name="lugar">Place:</string>
+    <string name="agendar">Schedule</string>
+    <string name="fotos_fila">Photos per row</string>
+    <string name="acerca_de">About</string>
+    <string name="carrera">Computational Systems Engineering</string>
+    <string name="materia">Android Development</string>
+    <string name="derechos_reservados">Copyright, 2022</string>
+    <string name="mis_sesiones">My photoshoots</string>
+    <string name="ordenar_por">Sort by:</string>
+    <string-array name="ordenar">
+        <item>Name (A-Z)</item>
+        <item>Name (Z-A)</item>
+        <item>Date asc.</item>
+        <item>Date desc.</item>
+    </string-array>
+    <string-array name="paquetes">
+        <item>Cheap</item>
+        <item>Basic</item>
+        <item>Premium</item>
+    </string-array>
+    <string-array name="lugares">
+        <item>Bosque Urbano</item>
+        <item>Bosque Venustiano Carranza</item>
+        <item>Parque Fundadores</item>
+        <item>Alameda</item>
+        <item>Other...</item>
+    </string-array>
+    <string name="cerrar">Close</string>
+    <string name="seleccionar_hora">Select time</string>
+    <string name="cancelar">Cancel</string>
+    <string name="seleccionar_fecha">Select date</string>
+    <string name="correo_ejemplo">email@example.com</string>
+    <string name="sin_fecha">No date set</string>
+    <string name="sin_hora">No time set</string>
+    <string name="ampliar">Zoom in</string>
+    <string name="descargar">Download</string>
+    <string name="info_sesion1">"Photoshoot's name: "</string>
+    <string name="info_sesion2">"Photoshoot's date: "</string>
+    <string name="info_sesion0">Photoshoot\'s info</string>
+    <string name="regresar">Go back</string>
+    <string name="iniciar_sesion">Sing in</string>
+    <string name="nombre_usuario">Username</string>
+    <string name="contrasena">Password</string>
+    <string name="contrasena_olvidada">Forgot password? Tap here</string>
+    <string name="registrasre">Sign up</string>
+    <string name="registro">Sign up</string>
+    <string name="repetir_contrasena">Repeat password</string>
+    <string name="telefono_dos_puntos">Phone:</string>
+    <string name="correo_dos_puntos">E-mail:</string>
+    <string name="nombre_completo">Full name</string>
+    <string name="telefono_10_digitos">Phone nomber (10 digits)</string>
+    <string name="cerrar_sesion">Log out</string>
+    <string name="bienvenido">Welcome</string>
+    <string name="nombre_sesion">Photoshoot\'s name:</string>
+    <string name="ejemplo_nombre_sesion">Example: Ariana\'s wedding</string>
+    <string name="error_sesion_sin_fotos">No photos to show!</string>
+    <string name="aceptar">Accept</string>
+    <string name="info_sesion_nombre">"Name: "</string>
+    <string name="info_sesion_fecha">"Date: "</string>
+    <string name="info_sesion_hora">"Time: "</string>
+    <string name="info_sesion_lugar">"Place: "</string>
+    <string name="info_sesion_paquete">"Plan: "</string>
+    <string name="algun_dia_ampliar">Selected imaged will zoom someday...</string>
+    <string name="algun_dia_descargar">Selected image will be downloaded someday...</string>
+    <string name="algun_dia_ocultar">Selected image will hide someday...</string>
+    <string name="algun_dia_eliminar">Selected image will be erased someday...</string>
+    <string name="compartir_sesion">Share photoshoot</string>
+    <string name="algun_dia_archivo_zip">A zip file will be downloaded someday...</string>
+    <string name="sesion_no_encontrada">Cannot find photoshoot :(</string>
+    <string name="sin_sesiones">No photoshoots to show. Schedule a new one below.</string>
+    <string name="sesiones_no_disponibles">No photoshoot availabe.</string>
+    <string name="error_elegir_imagen">Couldn\'t get image!</string>
+    <string name="seleccionar_fotos">Chosse photoshoot\'s photos:</string>
+    <string name="sal_para_actualizar">Please go back to update selected photos.</string>
+    <string name="fotos_borradas">Photos deleted successfully!</string>
+</resources>
